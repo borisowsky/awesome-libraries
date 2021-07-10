@@ -50,6 +50,7 @@
 
 ### CLI
 
+- [yargs](https://github.com/yargs/yargs) – Library for making CLI's.
 - [oclif](https://github.com/oclif/oclif) – CLI framework by Heroku.
 
 ## Testing
