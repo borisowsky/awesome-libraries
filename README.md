@@ -4,6 +4,7 @@
 
 ### General
 
+- [axios](https://github.com/axios/axios) – Data fetching library.
 - [yup](https://github.com/jquense/yup) – JSON schema validation.
 
 ### UI
@@ -24,6 +25,11 @@
 - [dnd-kit](https://github.com/clauderic/dnd-kit) – Drag and Drop.
 - [apollo-client](https://github.com/apollographql/apollo-client) – GraphQL client.
 - [relay](https://github.com/facebook/relay) - GraphQL client by Facebook.
+
+### Data fetching
+
+- [react-query](https://github.com/tannerlinsley/react-query) – Hooks for fetching, caching and updating asynchronous data.
+- [swr](https://github.com/vercel/swr) - SWR is a React Hooks library for remote data fetching by Vercel.
 
 ### State management
 
