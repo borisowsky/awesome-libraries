@@ -42,6 +42,7 @@
 - [webpack](https://github.com/webpack/webpack) – Modular JavaScript/TypeScript bundler.
 - [esbuild](https://github.com/evanw/esbuild) – Very fast JavaScript/TypeScript build tool.
 - [prettier](https://github.com/prettier/prettier) – Very fast code formatting.
+- [serve](https://github.com/vercel/serve) – Static file serving.
 
 ### Front End
 
