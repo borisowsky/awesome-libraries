@@ -85,7 +85,7 @@
 - [cypress](https://www.cypress.io/) – End to End testing framework.
 - [playwright](https://github.com/microsoft/playwright) – Chromium/Firefox/WebKit testing by Microsoft.
 
-### CLI
+## CLI
 
 - [yargs](https://github.com/yargs/yargs) – Library for making CLI's.
 - [oclif](https://github.com/oclif/oclif) – CLI framework by Heroku.
